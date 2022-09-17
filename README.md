@@ -1,7 +1,13 @@
+
+
 ![version](https://img.shields.io/badge/Version-04.2022-green)
 ![dh](https://img.shields.io/badge/Materia-Frontend%20II-blue)
 
 # ToDo App
+
+### Resultado final
+![Resutado final](https://github.com/ValeriaPaparelli/To-Do-App-Front-II-JS/blob/master/Print.PNG)
+
 
 Proyecto que reúne todos los conceptos y herramientas adquiridas en la materia Frontend II.
 
