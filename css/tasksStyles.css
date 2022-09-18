@@ -246,3 +246,21 @@ footer {
 footer img {
     height: 100%;
 }
+
+.mensaje {
+    position: fixed;
+    padding: 10px;
+    border-radius: 6px;
+    left: 20px;
+    bottom: 20px;
+    background-color: #17d317;
+    color: white;
+}
+
+.mensaje-error {
+    background-color: red;
+}
+
+.mensaje-oculto {
+    display: none;
+}
