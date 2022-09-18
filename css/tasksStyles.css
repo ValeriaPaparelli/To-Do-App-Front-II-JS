@@ -251,10 +251,12 @@ footer img {
     position: fixed;
     padding: 10px;
     border-radius: 6px;
-    left: 20px;
+    right: 20px;
     bottom: 20px;
     background-color: #17d317;
     color: white;
+    transition: all 0.5s ease-out;
+    opacity: 1;
 }
 
 .mensaje-error {
@@ -262,5 +264,6 @@ footer img {
 }
 
 .mensaje-oculto {
-    display: none;
+    bottom: -100px;
+    opacity: 0;
 }
